@@ -1,0 +1,12 @@
+[submodule "modules/claude-code-config"]
+	path = modules/claude-code-config
+	url = https://github.com/frankxai/claude-code-config.git
+[submodule "modules/claude-systematic-workflows"]
+	path = modules/claude-systematic-workflows
+	url = https://github.com/frankxai/claude-systematic-workflows.git
+[submodule "modules/claude-infrastructure"]
+	path = modules/claude-infrastructure
+	url = https://github.com/frankxai/claude-infrastructure.git
+[submodule "modules/claude-skills-library"]
+	path = modules/claude-skills-library
+	url = https://github.com/frankxai/claude-skills-library.git
