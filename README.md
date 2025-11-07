@@ -2,7 +2,14 @@
 
 **The Ultimate Claude Code Setup - Everything You Need**
 
+[![GitHub Stars](https://img.shields.io/github/stars/frankxai/claude-complete?style=social)](https://github.com/frankxai/claude-complete)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-v1.3+-blue)](https://claude.com/claude-code)
+[![Sponsor](https://img.shields.io/badge/Sponsor-FrankX-ff69b4?logo=github-sponsors)](https://github.com/sponsors/frankxai)
+
 One repository to rule them all. The complete FrankX Claude Code ecosystem with professional workflows, infrastructure automation, and unique specializations.
+
+**[🌐 Landing Page](https://frankxai.github.io/claude-complete)** | **[🎵 AI Music Products](#)** | **[📚 Courses](mailto:frank@frankxai.com?subject=Course%20Waitlist)** | **[💰 Membership](#)**
 
 ## What Is This?
 
@@ -37,7 +44,7 @@ Claude Complete is the meta-repository that combines all FrankX Claude Code comp
 - Personal development (gym, nutrition, music)
 - Philosophy (greek-philosopher, spartan-warrior)
 
-## One-Command Installation
+## ⚡ Quick Start (5 minutes)
 
 ```bash
 # Clone with all submodules
@@ -46,6 +53,22 @@ cd claude-complete
 
 # Install everything
 ./install-all.sh
+```
+
+**That's it!** You now have:
+- 17 specialized agents
+- Professional TDD workflows
+- Kubernetes & Terraform automation
+- 15+ expert skills
+- Complete Oracle Cloud integration
+
+### Try It Now
+
+```bash
+# In Claude Code, try these commands:
+/council                          # Convene strategic AI council
+/dev "add new feature"            # Start TDD workflow
+/arcanea-dev                      # Full-stack development mode
 ```
 
 Or install selectively:
@@ -325,11 +348,41 @@ The FrankX Method combines:
 
 MIT License - See individual repos for details
 
-## Support
+## 💰 Digital Products & Courses
+
+### 🎵 AI Music Production (Hero Products)
+- **AI Music Producer Toolkit** ($97) - 500+ prompts, agents, workflows
+- **Suno Prompt Library** ($29) - Instant download, all genres
+- **Music Automation Agents** - Free & premium packs
+
+### 📚 Courses (Self-Paced, Lifetime Access)
+- **AI Music Production Mastery** ($297) - Create 50 tracks/month
+- **Claude Automation for Creators** ($197) - Automate 20 hrs/week
+- **AI Content Creation System** ($247) - 10x your output
+
+[Join Waitlist](mailto:frank@frankxai.com?subject=Course%20Waitlist)
+
+### 🤖 Agent Marketplace (Coming Soon)
+- Individual Claude agents ($9-$49)
+- Creator automation packs
+- Content, music, workflow agents
+
+### 👥 Membership Community ($29-$99/month)
+- Monthly new agents & templates
+- Weekly training videos
+- Private Discord community
+- All digital products included (Pro tier)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-FrankX-ff69b4?logo=github-sponsors)](https://github.com/sponsors/frankxai)
+
+---
+
+## Support & Community
 
 - **Issues:** Use individual repo issue trackers
 - **Discussions:** https://github.com/frankxai/claude-complete/discussions
 - **Main Setup:** https://github.com/frankxai/claude-code-config
+- **Email:** frank@frankxai.com
 
 ## Contributing
 
